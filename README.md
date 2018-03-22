@@ -1,5 +1,5 @@
 # neverwinter-event-calendar
-Simple tool to retrieve lastest Neverwinter Events. This is in the process of improving for search parameters. 
+Simple tool to retrieve lastest Neverwinter events. This is in the process of improving for search parameters.
 Implemented using Spring Boot and Spring REST templates.
 
 Build with:
